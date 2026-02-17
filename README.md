@@ -8,3 +8,5 @@
 [My first internship video](https://www.youtube.com/watch?v=f3Ze3jzgYpg)
 
 [My internship report](https://drive.google.com/file/d/141AH7dwm_1sJ2PQazGFrnmF27b0cSjvx/view?usp=sharing)
+
+[Last but not least my email address] (tariqelbouhali039@gmail.com)
