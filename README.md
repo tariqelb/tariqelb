@@ -1,6 +1,8 @@
 # Software developer
+
 [![tel-bouh's 42 stats](https://badge.mediaplus.ma/greenbinary/tel-bouh?UM6P=off)](https://github.com/oakoudad/badge42)
-## The 42 certificate titles are attributed as follow:
+
+# The 42 certificate titles are attributed as follow:
   #### From level 9  to 12.99 : Junoir Developer 
   #### From level 13 to 15.99 : Developer
   #### From level 16 to 18.99 : Advanced Developer
