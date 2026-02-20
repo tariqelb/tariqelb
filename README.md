@@ -6,7 +6,6 @@
   #### From level 16 to 18.99 : Advanced Developer
   #### From level 19 to 20.99 : computer Scientist
   #### From level 21 to 21+   : Computer Architect
-
 # Resume
 [Resume](https://drive.google.com/file/d/1tMEWUSXZXRx6HYzTgyKRRekU7HqEjNDp/view?usp=sharing)
 
