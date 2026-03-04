@@ -1,34 +1,34 @@
 # Intro
 
-Me: Hi there.
+👩‍💻: Hi there.
 
-Guess: hi how are you!?
+🤵: Hi how are you!?
 
-Me: fine, thanks , i hope you doing will
+👩‍💻: Fine, thanks , i hope you doing will
 
-Guess: who are you?
+🤵: who are you?
 
-Me: Did you see the profile image on the left?
+👩‍💻: Did you see the profile image on the left?
 
-Guess: Yep.
+🤵: Yep.
 
-Me: That's me — Tariq El Bouhali.
+👩‍💻: That's me — Tariq El Bouhali.
 
-Guess: And?
+🤵: And?
 
-Me: I am an artist painter, businessman, topographer, and software developer. I'm currently pursuing my studies at 1337 coding school.
+👩‍💻: I am an artist painter, businessman, topographer, and software developer. I'm currently pursuing my studies at 1337 coding school.
 
-Guess: Interesting. Can you tell us about your technical skills?
+🤵: Interesting. Can you tell us about your technical skills?
 
 Me: Check the link below , everything you need is there. Although, I will tell you about my soft skills: I am a problem solver, have strong critical thinking, I'm passionate, with long breathing.
 
-Guess: How can we reach you?
+🤵: How can we reach you?
 
-Me: The Easy and Correct way, through my email address, just send me an email.
+👩‍💻: The Easy and Correct way, through my email address, just send me an email.
 
-Guess: Thank you.
+🤵: Thank you for you time.
 
-User: You're welcome.
+👩‍💻: You're welcome.
 
 
 # Software developer
