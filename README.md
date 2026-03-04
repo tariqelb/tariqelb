@@ -1,6 +1,6 @@
 # Intro
 
-👩‍💻: Hi there.
+👩‍💻: Hello.
 
 🤵: Hi, how are you!?
 
