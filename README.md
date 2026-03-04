@@ -20,7 +20,7 @@
 
 🤵: Interesting. Can you tell us about your technical skills?
 
-Me: Check the link below , everything you need is there. Although, I will tell you about my soft skills: I am a problem solver, have strong critical thinking, I'm passionate, with long breathing.
+👩‍💻: Check the links below , everything you need is there. Although, I will tell you about my soft skills: I am a problem solver, have strong critical thinking, I'm passionate, with long breathing.
 
 🤵: How can we reach you?
 
