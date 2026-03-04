@@ -2,9 +2,9 @@
 
 👩‍💻: Hi there.
 
-🤵: Hi how are you!?
+🤵: Hi, how are you!?
 
-👩‍💻: Fine, thanks , i hope you doing will
+👩‍💻: Fine, thanks , i hope you doing well
 
 🤵: who are you?
 
