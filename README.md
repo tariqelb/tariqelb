@@ -52,7 +52,7 @@ Intro
 [Internship report](https://drive.google.com/file/d/141AH7dwm_1sJ2PQazGFrnmF27b0cSjvx/view?usp=sharing)
 
 # Current situation :
-#### Open for part-time/remote job
+#### Open for full-time/part-time/remote job or internship 
 
 # Last but not least my email address:
 tariqelbouhali039@gmail.com
