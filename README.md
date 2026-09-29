@@ -43,9 +43,9 @@ Intro
   #### From level 19 to 20.99 : computer Scientist
   #### From level 21 to 21+   : Computer Architect
 # Resume
-[Resume](https://drive.google.com/file/d/1tMEWUSXZXRx6HYzTgyKRRekU7HqEjNDp/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1-UQQ8a-XVi-aqjiwlD5EeixamBGtsXp1/view?usp=sharing)
 
-[Cursus](https://drive.google.com/file/d/1TiYs8d2JaBogjNXjTNdPJj3bpAyNuKH1/view?usp=sharing)
+[Cursus](https://drive.google.com/file/d/1jfJszjh0sx3dxbRES4tiESJ7dh8feg_z/view?usp=sharing)
 
 [First internship video](https://www.youtube.com/watch?v=f3Ze3jzgYpg)
 
