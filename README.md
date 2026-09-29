@@ -1,35 +1,36 @@
 # Intro
 
+Intro
+
 👩‍💻: Hello.
 
-🤵: Hi, how are you!?
+🤵: Hi, how are you?
 
-👩‍💻: Fine, thanks , i hope you doing well
+👩‍💻: Fine, thanks. I hope you're doing well.
 
-🤵: who are you?
+🤵: Who are you?
 
-👩‍💻: Did you see the profile image on the left?
+👩‍💻: Did you see the profile picture on the left?
 
 🤵: Yep.
 
-👩‍💻: That's me — Tariq El Bouhali.
+👩‍💻: That's me, Tariq El Bouhali.
 
 🤵: And?
 
-👩‍💻: I am an artist painter, businessman, topographer, and software developer. I'm currently pursuing my studies at 1337 coding school.
+👩‍💻: I am an artist and painter, businessman, topographer, and software developer. I'm currently pursuing my studies at 1337 Coding School.
 
 🤵: Interesting. Can you tell us about your technical skills?
 
-👩‍💻: Check the links below , everything you need is there. Although, I will tell you about my soft skills: I am a problem solver, have strong critical thinking, I'm passionate, with long breathing.
+👩‍💻: Check the links below. Everything you need is there. Although, I can tell you a little about my soft skills: I'm a problem solver with strong critical thinking. I'm passionate about what I do, and I have a lot of perseverance.
 
 🤵: How can we reach you?
 
-👩‍💻: The Easy and Correct way, through my email address, just send me an email.
+👩‍💻: The easy and correct way? Through my email address. Just send me an email.
 
-🤵: Thank you for you time.
+🤵: Thank you for your time.
 
 👩‍💻: You're welcome.
-
 
 # Software developer
 
