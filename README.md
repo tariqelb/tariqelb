@@ -24,6 +24,11 @@ Intro
 
 👩‍💻: Check the links below. Everything you need is there. Although, I can tell you a little about my soft skills: I'm a problem solver with strong critical thinking. I'm passionate about what I do, and I have a lot of perseverance.
 
+🤵🏻: can you prove that you are a problem solver 😏
+
+👩‍💻: Yep , read that discussion about a new real estate application that face content problem, you will find my solution there 😌
+[Solution](https://drive.google.com/file/d/1xfSKgSwyoTLgcgZRpepdVzrVEpEC4Fgc/view?usp=drivesdk)
+
 🤵: How can we reach you?
 
 👩‍💻: The easy and correct way? Through my email address. Just send me an email.
@@ -50,6 +55,10 @@ Intro
 [First internship video](https://www.youtube.com/watch?v=f3Ze3jzgYpg)
 
 [Internship report](https://drive.google.com/file/d/141AH7dwm_1sJ2PQazGFrnmF27b0cSjvx/view?usp=sharing)
+
+# Future Project :
+### Multi-servives application 
+[idea-concept](https://drive.google.com/file/d/1xY59LE-e-XyJqOdwagGAb-VBKTduJUaH/view?usp=drivesdk)
 
 # Current situation :
 #### Open for full-time/part-time/remote job or internship 
