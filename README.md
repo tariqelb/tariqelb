@@ -64,9 +64,13 @@ Intro
 ### Multi-servives application 
 [idea-concept](https://drive.google.com/file/d/1xY59LE-e-XyJqOdwagGAb-VBKTduJUaH/view?usp=drivesdk)
 
-Project on progress , here is a demo:
-[repository](https://github.com/tariqelb/multi-service)
-Tech stack : React , nodejs, Expressjs, Mongodb, Tailwind, RestApi
+Project on progress , here is a demo:  
+
+
+[repository](https://github.com/tariqelb/multi-services)  
+
+
+Tech stack : React , nodejs, Expressjs, Mongodb, Tailwind, RestApi  
 
 # Current situation :
 #### Open for full-time/part-time/remote job or internship 
