@@ -52,7 +52,7 @@ Intro
 
   
 # Resume
-[Resume](https://drive.google.com/file/d/1-UQQ8a-XVi-aqjiwlD5EeixamBGtsXp1/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/14FVro4bTKHH6TbQWh_W2X55ZMgxtgh83/view?usp=sharing)
 
 [Cursus](https://drive.google.com/file/d/1jfJszjh0sx3dxbRES4tiESJ7dh8feg_z/view?usp=sharing)
 
