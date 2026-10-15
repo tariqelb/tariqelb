@@ -47,6 +47,10 @@ Intro
   #### From level 16 to 18.99 : Advanced Developer
   #### From level 19 to 20.99 : computer Scientist
   #### From level 21 to 21+   : Computer Architect
+
+  #### Current reached level : 17.41 Advanced developer  
+
+  
 # Resume
 [Resume](https://drive.google.com/file/d/1-UQQ8a-XVi-aqjiwlD5EeixamBGtsXp1/view?usp=sharing)
 
@@ -63,12 +67,12 @@ Intro
 
 # Future Project :
 ### Multi-servives application 
-[idea-concept](https://drive.google.com/file/d/1xY59LE-e-XyJqOdwagGAb-VBKTduJUaH/view?usp=drivesdk)
+[Idea-concept](https://drive.google.com/file/d/1xY59LE-e-XyJqOdwagGAb-VBKTduJUaH/view?usp=drivesdk)
 
 Project on progress , here is a demo:  
 
 
-[repository](https://github.com/tariqelb/multi-services)  
+[Repository](https://github.com/tariqelb/multi-services)  
 
 
 Tech stack : React , nodejs, Expressjs, Mongodb, Tailwind, RestApi  
