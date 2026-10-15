@@ -57,7 +57,8 @@ Intro
 [Internship report](https://drive.google.com/file/d/141AH7dwm_1sJ2PQazGFrnmF27b0cSjvx/view?usp=sharing)
 
 #  Suppervisor feedback on first 6 month internship
-  [Mid feedback](https://drive.google.com/file/d/1Aeed_NCf0ESS0CcDa5YXaGRFou-2BxE6/view?usp=sharing)
+  [Mid feedback](https://drive.google.com/file/d/1Aeed_NCf0ESS0CcDa5YXaGRFou-2BxE6/view?usp=sharing)  
+  
   [Final feedback](https://drive.google.com/file/d/14duXLcF1fnu-tqWzR56JUztuGpPn8wsq/view?usp=sharing)
 
 # Future Project :
